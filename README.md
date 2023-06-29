@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aidenomelia
 - 👀 I’m interested in building and creating new things
-- 🌱 I’m currently learning C with CS50
-- 💞️ I’m looking to collaborate on my first project
+- 🌱 I’m currently freelancig web development
+- 💞️ I’m looking to start working in software full time
 - 📫 How to reach me aidenomelia20@gmail.com
 
 <!---
